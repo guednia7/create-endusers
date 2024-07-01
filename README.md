@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - How to create End Users </h1>
+<h1>osTicket - How to Create End Users </h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
