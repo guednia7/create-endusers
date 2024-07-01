@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Create osTicket End Users,](https://youtu.be/sjzqNQ6171Q)
+- ### [YouTube: How To Create End Users in osTicket  ,](https://youtu.be/sjzqNQ6171Q)
 
 <h2>Environments and Technologies Used</h2>
 
